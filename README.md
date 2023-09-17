@@ -27,6 +27,9 @@
 # 📖 PentaB Task <a name="about-project"></a>
 
 **PentaB Task** is an app to move mars rover
+
+[**API Doumentation**](https://documenter.getpostman.com/view/12680644/2s9YC7SreA)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -91,6 +94,7 @@ To run the project, execute the following command:
 ```
 
 ### Run Tests
+
 To run tests execute the following command:
 
 ```
